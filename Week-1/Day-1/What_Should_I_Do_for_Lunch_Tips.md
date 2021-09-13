@@ -8,9 +8,9 @@ To help you figure out how to use `hungry` and `availableTime` inside your funct
 
 
 ```Javascript
-function whatToDoLunch(hungry,availableTime{
+function whatToDoLunch(hungry,availableTime){
   console.log("hungry is:",hungry);
-  console.log("availableTime is", availableTime);
+  console.log("availableTime is"); availableTime);
 
 }
 ```
